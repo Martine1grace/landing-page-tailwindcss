@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tailwindcss/tailwind-landing-page/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "manage-landingpage"
+	}
+}
